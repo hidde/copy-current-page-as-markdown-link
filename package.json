@@ -1,0 +1,19 @@
+{
+  "name": "copy-current-page-as-markdown-link",
+  "version": "1.0.0",
+  "description": "This extension adds a page action which alerts out the URL to the current page in Markdown syntax, with the page title as the link name.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidde/copy-current-page-as-markdown-link.git"
+  },
+  "author": "Hidde de Vries",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/hidde/copy-current-page-as-markdown-link/issues"
+  },
+  "homepage": "https://github.com/hidde/copy-current-page-as-markdown-link#readme"
+}
